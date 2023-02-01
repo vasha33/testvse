@@ -1,0 +1,14 @@
+add common git command 
+
+git status 
+
+git push
+git pull 
+git commit -m "xxxx" 
+
+#git log statements
+  - git log 
+  - git log --oneline --decorate --graph
+	
+  
+
